@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "470283827651",
+    "project_id": "socialapplication-2edb7"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470283827651:android:68051fb8354cb60d",
+        "android_client_info": {
+          "package_name": "com.gire.socialapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470283827651-jdh4bursrmd11kb9uqajdh31obt2l35v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc4voyCLtHrdGSaHeYdy5aCms9VY7GQrs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="300dp"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SELECT MODE"
+        android:padding="15dp"
+        android:gravity="center"
+        android:textColor="@android:color/black"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray"/>
+
+    <TextView
+        android:id="@+id/add_to_family"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="FAMILY"
+        android:gravity="center"
+        android:padding="15dp"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray"/>
+
+    <TextView
+        android:id="@+id/add_to_party"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PARTY"
+        android:gravity="center"
+        android:padding="15dp"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray"/>
+
+    <TextView
+        android:id="@+id/add_to_conference"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CONFERENCE"
+        android:gravity="center"
+        android:padding="15dp"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray"/>
+
+    <TextView
+        android:id="@+id/add_as_stranger"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="STRANGER"
+        android:gravity="center"
+        android:padding="15dp"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray"/>
+
+</LinearLayout>
